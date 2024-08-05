@@ -1,0 +1,10 @@
+.main-content{
+    background-color: gainsboro;
+    padding: 10px;
+    height: 100%;
+}
+
+.title{
+    font-size: xx-large;
+    font-weight: bolder ;
+}
